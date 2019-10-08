@@ -6,5 +6,9 @@ Twice - One In A Million
 //git commit
 
 //git log
-git show
-git diff //diffirence
+//git show
+//git diff //diffirence
+
+//working directory
+//staging area
+//git responsitory
