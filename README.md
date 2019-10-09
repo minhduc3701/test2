@@ -15,3 +15,9 @@ Twice - One In A Million
 
 //git checkout  git restore <file>
 //git reset     git restore --staged <file>
+
+	git checkout -b <branch> (branching)
+	git checkout <branch>
+	git merge
+
+//gitk
