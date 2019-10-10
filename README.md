@@ -49,3 +49,10 @@ git config --global credential.helper "cache --timeout=18000"
 cd //chon thu muc de lam viec
 git clone <link github> //tao ra 1 ban clone giong het project tren github ve may
 git pull //update thay doi tu project github vao ban clone tren may
+
+//quy trinh lam viec nhom vs git pull request
+1.git checkout -b <feature_branch>
+2.git push origin <branch>
+3.create a pull request on github
+4.review code
+5.merge to master
