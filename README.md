@@ -26,6 +26,6 @@ git branch -d <branch> //xoa di 1 brand
 
 git add . //them tat ca file, thay doi vao stage
 
-git reset --sort <to_commit>
-git reset --mixed <to_commit>
+git reset --sort <to_commit> // dua thay doi tu HEAD ve lai staged
+git reset --mixed <to_commit> // dua thay doi tu HEAD ve lai working directory
 git reset --hard <to_commit>
