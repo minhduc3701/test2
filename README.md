@@ -45,3 +45,7 @@ git push -u origin master //tai len github project (lan dau)
 //cach luu ten dang nhap mat khau khi push
 //luu ten dang nhap trong 5 tieng hoac toi khi tat may
 git config --global credential.helper "cache --timeout=18000"
+
+cd //chon thu muc de lam viec
+git clone <link github> //tao ra 1 ban clone giong het project tren github ve may
+git pull //them thay doi tu project github vao ban clone tren may
