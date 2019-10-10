@@ -48,4 +48,4 @@ git config --global credential.helper "cache --timeout=18000"
 
 cd //chon thu muc de lam viec
 git clone <link github> //tao ra 1 ban clone giong het project tren github ve may
-git pull //them thay doi tu project github vao ban clone tren may
+git pull //update thay doi tu project github vao ban clone tren may
