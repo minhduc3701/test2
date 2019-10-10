@@ -35,5 +35,8 @@ git revert <commit> //tra lai trang thai cua duy nhat commit duoc chi dinh
 
 gitignore
 npm init //tao file package.json chua thong tin ve project
-git remote add origin <link github>
-git push
+git remote add origin <link github> //set link project github mac dinh cho project
+git push //cap nhat project len github da tai len
+git remote -v // check link github dang lam viec
+git remote set-url origin <link github> // thay doi link project github
+git push -u origin master //tai len github project (lan dau)
