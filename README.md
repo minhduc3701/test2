@@ -32,3 +32,8 @@ git reset --mixed <to_commit> // dua thay doi tu HEAD ve lai working directory
 git reset --hard <to_commit> // xoa han thay doi
 
 git revert <commit> //tra lai trang thai cua duy nhat commit duoc chi dinh
+
+gitignore
+npm init //tao file package.json chua thong tin ve project
+git remote add origin <link github>
+git push
