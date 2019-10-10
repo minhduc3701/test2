@@ -45,6 +45,3 @@ git push -u origin master //tai len github project (lan dau)
 //cach luu ten dang nhap mat khau khi push
 //luu ten dang nhap trong 5 tieng hoac toi khi tat may
 git config --global credential.helper "cache --timeout=18000"
-
-
-aaa
