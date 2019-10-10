@@ -59,11 +59,7 @@ git pull //update thay doi tu project github vao ban clone tren may
 	4.2 fetch branch into local to test offline
 	4.3 approve the pull
 5.merge to master
-
-<<<<<<< HEAD
 git fetch <branch name> //tai ve 1 brand tren github
 
-npm install //se cai cac package con thieu vao project
-=======
+npm install //se cai cac package con thieu vao projec
 git fetch <branch name> //tai ve 1 brand tren github
->>>>>>> feature/horse-class
