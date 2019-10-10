@@ -25,3 +25,7 @@ gitk //bang dieu khien
 git branch -d <branch> //xoa di 1 brand
 
 git add . //them tat ca file, thay doi vao stage
+
+git reset --sort <to_commit>
+git reset --mixed <to_commit>
+git reset --hard <to_commit>
